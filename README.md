@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hello! 👋
 
+Problemsolver since birth currently learning Java and REST APIs with Jakarta EE.
+Always interested to connect and collaborate. 🙂
+
+Find me at ➡️ [LinkedIn](https://www.linkedin.com/in/alvar-jaxell-71a537162/)
 <!--
 **a-jaxell/a-jaxell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
