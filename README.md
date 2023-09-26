@@ -1,6 +1,7 @@
 ### Hello! 👋
 
-Problemsolver since birth currently learning Java and REST APIs with Jakarta EE.
+Problemsolver since birth currently learning Java and REST APIs with Jakarta EE.\
+\
 Always interested to connect and collaborate. 🙂
 
 Find me at ➡️ [LinkedIn](https://www.linkedin.com/in/alvar-jaxell-71a537162/)
