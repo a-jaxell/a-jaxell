@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-Problemsolver since birth currently learning Java and REST APIs with Jakarta EE.\
+Solving problems since birth and currently learning Java and REST APIs with Jakarta EE.\
 \
 Always interested to connect and collaborate. 🙂
 
