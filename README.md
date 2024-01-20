@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-Solving problems since birth and currently learning Java and Spring Boot.\
+Putting pieces together in patterns and currently making a project with Next.js and Spring Boot.\
 \
 Always interested to connect and collaborate. 🙂
 
