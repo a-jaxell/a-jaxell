@@ -1,7 +1,5 @@
 ### Hello! 👋
 
-Putting pieces together in patterns and currently making a project with Next.js and Spring Boot.\
-\
 Always interested to connect and collaborate. 🙂
 
 Find me at ➡️ [LinkedIn](https://www.linkedin.com/in/alvar-jaxell-71a537162/)
