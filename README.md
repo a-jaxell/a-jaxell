@@ -2,6 +2,24 @@
 
 Always interested to connect and collaborate. 🙂
 
+```javascript
+![bannerImg](https://github.com/a-jaxell/a-jaxell/assets/97404672/a56c9c8e-1fe8-4c55-ba15-b1c82fc826ae)
+
+const alvar: AspiringFullstackDeveloper = {
+
+  code: [JavaScript, TypeScript, Java, HTML, CSS, SQL],
+  tools: [React, Next.js, Docker, Jest, Junit5, SpringBoot],
+  contributes: ["broad perspective", "open minded", "jokes", "happiness"]
+    interests: {
+                  outdoors: "kayaking", "hiking", "running"
+                  cooking: "italian", "for friends"
+                  nature: "environment", "challenges",
+               }
+}
+
+
+```
+
 Find me at ➡️ [LinkedIn](https://www.linkedin.com/in/alvar-jaxell-71a537162/)
 <!--
 **a-jaxell/a-jaxell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
