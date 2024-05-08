@@ -3,7 +3,6 @@
 Always interested to connect and collaborate. 🙂
 
 ```javascript
-![bannerImg](https://github.com/a-jaxell/a-jaxell/assets/97404672/a56c9c8e-1fe8-4c55-ba15-b1c82fc826ae)
 
 const alvar: AspiringFullstackDeveloper = {
 
