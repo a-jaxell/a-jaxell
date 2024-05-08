@@ -1,6 +1,13 @@
-### Hello! 👋
+# Hello, I'm Alvar! 👋
+
+![finalBanner](https://github.com/a-jaxell/a-jaxell/assets/97404672/c4555aa0-b034-472d-a539-edc4fe6da82a)
+
+Previously a chef, now in transition into a career in tech. 
+I like working towards meaningful ideas and believe that through collaboration truely great things can happen. 
 
 Always interested to connect and collaborate. 🙂
+
+
 
 ```javascript
 
@@ -11,10 +18,11 @@ const alvar: AspiringFullstackDeveloper = {
   contributes: ["broad perspective", "open minded", "jokes", "happiness"]
     interests: {
                   outdoors: "kayaking", "hiking", "running"
-                  cooking: "italian", "for friends"
-                  nature: "environment", "challenges",
+                  cooking: "italian", "for friends", "korean"
+                  nature: "environment", "challenges", "conservation"
                }
 }
+
 
 
 ```
