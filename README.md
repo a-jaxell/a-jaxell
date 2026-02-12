@@ -1,30 +1,12 @@
 # Hello, I'm Alvar! 👋
 
-![bannerExtra](https://github.com/a-jaxell/a-jaxell/assets/97404672/2fbb6c7a-b58e-4162-b183-72d6bd6cc7f1)
+![github-banner](https://github.com/user-attachments/assets/036a669b-1143-48ab-a6ef-ae1e0344d1c0)
 
 Previously a chef, now in transition into a career in tech. 
 I like working towards meaningful ideas and believe that through collaboration truly great things can happen. 
 
 Always interested to connect and collaborate. 🙂
 
-
-
-```javascript
-
-const alvar: AspiringFullstackDeveloper = {
-
-  code: [JavaScript, TypeScript, Java, HTML, CSS, SQL],
-  tools: [React, Next.js, Docker, Jest, Junit5, SpringBoot],
-  contributes: ["broad perspective", "open minded", "jokes", "happiness"]
-    interests: {
-                  outdoors: "kayaking", "hiking", "running"
-                  cooking: "italian", "for friends", "korean"
-                  nature: "environment", "challenges", "conservation"
-               }
-}
-
-
-```
 
 - 🔧 Currently creating a membership management platform
 - 🤔 I’m looking for help with how to make a neat booking system
